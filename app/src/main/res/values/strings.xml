@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Led_04</string>
+    <string name="about">About</string>
+
+    <string name="copyright">© Vitaly Tchaikovsky, 2019\nAll rights reserved</string>
+    <string name="icons_by_text">Icon provided by</string>
+    <string name="about_dialog_title">About the application</string>
+
+    <string name="horizontal_title">Bit number</string>
+</resources>
